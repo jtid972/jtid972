@@ -2,7 +2,7 @@ Johan TIDAS
 
 Ingénieur territorial · Directeur des systèmes d'information
 
-Je conçois des outils libres qui simplifient l'exploitation et le travail au quotidien, du serveur au poste de travail, avec une attention particulière à la sécurité, à la souveraineté des données et à la maîtrise des coûts dans le secteur public.
+Je conçois des outils libres qui simplifient l'exploitation et le travail au quotidien, du serveur au poste de travail, avec une attention particulière  à la souveraineté des données et à la maîtrise des coûts dans le secteur public.
 
 French public sector IT engineer and CIO. I build open-source tools that simplify IT operations and everyday work, from servers to desktops.
 
