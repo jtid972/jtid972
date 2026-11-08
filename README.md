@@ -15,15 +15,15 @@ Transforme une vidéo ou un audio en dossier de préparation pour une IA (transc
 "Compression pas à pas"	
 Allège vidéos, images, documents bureautiques et PDF sans changer leur format, avec estimation du gain ; PDF scanné → Word / PowerPoint modifiable	bientôt disponible
 
-Windows Server & Hyper-V	Utilitaires d'administration et d'automatisation	en préparation
+Windows Server & Hyper-V	Utilitaires d'administration et d'automatisation	bientôt disponible
 
-Scaleway IA générative & Serverless	Outils de déploiement et d'exploitation	en préparation
+Scaleway IA générative & Serverless	Outils de déploiement et d'exploitation	bientôt disponible
 
-Microsoft 365	Utilitaires d'administration	en préparation
+Microsoft 365	Utilitaires d'administration	bientôt disponible
 
-Google Workspace	Utilitaires d'administration	en préparation
+Google Workspace	Utilitaires d'administration	bientôt disponible
 
-OnlyOffice	Intégrations et outils	en préparation
+OnlyOffice	Intégrations et outils	bientôt disponible
 
 
 ⚙️ Ma façon de construire
