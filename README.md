@@ -7,7 +7,7 @@ Je conçois des outils libres qui simplifient l'exploitation et le travail au qu
 French public sector IT engineer and CIO. I build open-source tools that simplify IT operations and everyday work, from servers to desktops.
 
 🧰 Outils libres
-Outil	En bref	État
+
 
 "Vidéo pas à pas"	
 Transforme une vidéo ou un audio en dossier de préparation pour une IA (transcription + captures) : pour un usage par exemple de rédaction assistée par IA de tutoriels, de guides, et de  notes de synthèse
