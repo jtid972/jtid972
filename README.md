@@ -13,7 +13,7 @@ Outil	En bref	État
 Transforme une vidéo ou un audio en dossier de préparation pour une IA (transcription + captures) : tutoriels, guides, notes de synthèse
 
 "Compression pas à pas"	
-Allège vidéos, images, documents bureautiques et PDF sans changer leur format, avec estimation du gain ; PDF scanné → Word / PowerPoint modifiable	disponible
+Allège vidéos, images, documents bureautiques et PDF sans changer leur format, avec estimation du gain ; PDF scanné → Word / PowerPoint modifiable	bientôt disponible
 
 Windows Server & Hyper-V	Utilitaires d'administration et d'automatisation	en préparation
 
