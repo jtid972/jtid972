@@ -24,7 +24,7 @@ Documentation en français, pensée pour être reprise par d'autres collectivit�
 
 Outils sous AGPL-3.0 : libres d'utilisation, de modification et de partage, à condition de publier les modifications sous la même licence. Licence commerciale possible pour un usage sans ces obligations : ouvrir un ticket Demande de licence commerciale sur le dépôt concerné.
 
-Code réalisé avec l'assistance de Claude (IA d'Anthropic).
+Code réalisé avec l'assistance de Claude (IA d'Anthropic) et ou Mistral Vibe Code (Mistral).
 
 🛠️ Technologies
 
