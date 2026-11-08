@@ -6,7 +6,7 @@ Je conçois des outils libres qui simplifient l'exploitation et le travail au qu
 
 French public sector IT engineer and CIO. I build open-source tools that simplify IT operations and everyday work, from servers to desktops.
 
-🧰 Outils libres
+🧰 Outils libres "pas à pas"
 
 
 "Vidéo pas à pas"	
@@ -15,15 +15,15 @@ Transforme une vidéo ou un audio en dossier de préparation pour une IA (transc
 "Compression pas à pas"	
 Allège vidéos, images, documents bureautiques et PDF sans changer leur format, avec estimation du gain ; PDF scanné → Word / PowerPoint modifiable	bientôt disponible
 
-Windows Server & Hyper-V	Utilitaires d'administration et d'automatisation	bientôt disponible
+"Windows Server Hyper-V pas à pas"	Utilitaires d'administration et d'automatisation	bientôt disponible
 
-Scaleway IA générative & Serverless	Outils de déploiement et d'exploitation	bientôt disponible
+"Scaleway IA générative & Serverless pas à pas"	Outils de déploiement et d'exploitation	bientôt disponible
 
-Microsoft 365	Utilitaires d'administration	bientôt disponible
+"Microsoft 365	Utilitaires d'administration pas à pas"	bientôt disponible
 
-Google Workspace	Utilitaires d'administration	bientôt disponible
+"Google Workspace	Utilitaires d'administration pas à pas"	bientôt disponible
 
-OnlyOffice	Intégrations et outils	bientôt disponible
+"OnlyOffice	Intégrations et outils pas à pas" 	bientôt disponible
 
 
 ⚙️ Ma façon de construire
