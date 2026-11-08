@@ -1,16 +1,31 @@
-## Hi there 👋
+Johan TIDAS
 
-<!--
-**jtid972/jtid972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingénieur territorial · Directeur des systèmes d'information
 
-Here are some ideas to get you started:
+Je conçois des outils libres qui simplifient l'exploitation et le travail au quotidien, du serveur au poste de travail, avec une attention particulière à la sécurité, à la souveraineté des données et à la maîtrise des coûts dans le secteur public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+French public sector IT engineer and CIO. I build open-source tools that simplify IT operations and everyday work, from servers to desktops.
+
+🧰 Outils libres
+Outil	En bref	État
+Vidéo pas à pas	Transforme une vidéo ou un audio en dossier de préparation pour une IA (transcription + captures) : tutoriels, guides, notes de synthèse	disponible
+Compression pas à pas	Allège vidéos, images, documents bureautiques et PDF sans changer leur format, avec estimation du gain ; PDF scanné → Word / PowerPoint modifiable	disponible
+Windows Server & Hyper-V	Utilitaires d'administration et d'automatisation	en préparation
+Scaleway IA générative & Serverless	Outils de déploiement et d'exploitation	en préparation
+Microsoft 365	Utilitaires d'administration	en préparation
+Google Workspace	Utilitaires d'administration	en préparation
+OnlyOffice	Intégrations et outils	en préparation
+⚙️ Ma façon de construire
+Multiplateforme : Windows, macOS, Linux, Docker et Scaleway Serverless ; interfaces utilisables sur mobile et installables comme une application.
+Traitement local : les fichiers restent sur la machine ou le serveur de l'utilisateur.
+Sécurité continue : analyse Trivy bloquante avant chaque publication et chaque semaine, actions GitHub épinglées, mises à jour automatiques testées, version corrigée chaque mois.
+Documentation en français, pensée pour être reprise par d'autres collectivités.
+📜 Licences
+
+Outils sous AGPL-3.0 : libres d'utilisation, de modification et de partage, à condition de publier les modifications sous la même licence. Licence commerciale possible pour un usage sans ces obligations : ouvrir un ticket Demande de licence commerciale sur le dépôt concerné.
+
+Code réalisé avec l'assistance de Claude (IA d'Anthropic).
+
+🛠️ Technologies
+
+Python · FastAPI · Docker · GitHub Actions · Trivy · Scaleway (Serverless, IA générative) · Windows Server / Hyper-V · Microsoft 365 · Google Workspace · OnlyOffice
