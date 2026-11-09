@@ -43,4 +43,4 @@ Code réalisé avec l'assistance de Claude (IA d'Anthropic) et ou Mistral Vibe C
 
 🛠️ Technologies
 
-Python · FastAPI · Docker · GitHub Actions · Trivy · Scaleway (Serverless, IA générative) · Windows Server / Hyper-V · Microsoft 365 · Google Workspace · OnlyOffice
+Python ·Powershell · FastAPI · Docker · GitHub Actions · Trivy · Scaleway (Serverless, IA générative) · Windows Server / Hyper-V · Microsoft 365 · Google Workspace · OnlyOffice
